@@ -27,7 +27,7 @@ Eigen::Quaternionf Eul2Quat(const Eigen::Vector3f euler){
 
 int main(int argc, char* argv[] )
 {
-	
+	// Commentaire 1
 	Eigen::Quaternionf a;
 	Eigen::Matrix3f mat;
 	mat << 0,1,1,
